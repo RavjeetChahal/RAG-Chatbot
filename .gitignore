@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+
+# Environment files / API keys
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code / IDE
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit secrets
+.streamlit/secrets.toml
